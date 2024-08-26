@@ -2,6 +2,7 @@
 ## list of my favourite things about cs193
 
 - only happens once a week
+- isn't in the morning
 
 
 
